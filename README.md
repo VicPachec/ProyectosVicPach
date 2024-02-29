@@ -45,12 +45,6 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-**Table of Contents / Índice**
-
-[TOCM]
-
-[TOC]
-
 ### Contact Me / Other Jobs Done / Contactame
 - *LinkedIn Profile / Perfil de LinkedIn:* [![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://bit.ly/3fKiBxA)
 
