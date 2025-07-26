@@ -26,7 +26,6 @@
 ### EXPERIENCE / EXPERIENCIA
 #### PROGRAMMING LANGUAGES
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) Basic
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) Basic
 
@@ -38,17 +37,18 @@
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
 #### SOFTWARE I USE
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![PopOS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
+[![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?logo=linuxmint&logoColor=fff)](#)
+[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
+[![Brave](https://img.shields.io/badge/Brave-FB542B?logo=Brave&logoColor=white)](#)
 
 ### Contact Me / Other Jobs Done / Contactame
-- *LinkedIn Profile / Perfil de LinkedIn:* [![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://bit.ly/3fKiBxA)
+- *LinkedIn Profile / Perfil de LinkedIn:* [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/victor-hugo-pacheco-a27409130/)
 
-- *Medium Profile / Perfil en Medium:* [![Medium Profile](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://shorturl.at/eqvwT)
+- *Medium Profile / Perfil en Medium:* [![Medium](https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white)](https://shorturl.at/eqvwT)
 
 ## Project List / Listado de proyectos
 ----
@@ -61,16 +61,15 @@
 | Big Data & NoSQL     | Entrega BD NoSQL y Cloud |   15-10-2023 |
 | Statistical Works     | Entregas Estadística |   12-11-2023 |
 | Machine Learning     | Entregas Aprendizaje Automático |   17-12-2023 |
-| Clustering and Dimensionality Reduction     | Final - Clusterización y R Dim  |   07-02-2024 |
-                
+| Clustering and Dimensionality Reduction (2022 Dataset) | Final - Clusterización y R Dim  |   07-02-2024 |
+| Clustering and Dimensionality Reduction (2024 Dataset) | *In process of committing project*  |   25-07-2025 |
+
 ----
 
 *More jobs coming soon while I organise all info / Mas trabajos en camino conforme organizo la información*
 
-*Made with/elaborado con Pandao: [GitHub repository](https://pandao.github.io/ "Pandao")*
-
 *Badges from: [Vedant Chainani - Dev.to](https://dev.to/envoy_/150-badges-for-github-pnk
- "Dev.to")*
+ "Dev.to") and [Inter - md-badges](https://inttter.github.io/md-badges/)*
 
 
  * All shown trademarks belong to their respective owners, used only for informational purposes
